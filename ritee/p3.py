@@ -1,0 +1,12 @@
+list=[1,2,3,4,5,6]
+print(list[3])
+print(list[-1])
+print(list[1:5])
+list[2]=10
+print(list)
+list.append(20)
+print(list)
+list.remove(5)
+print(list)
+list.insert(1,5)
+print(list)
